@@ -26,8 +26,8 @@ For this project, I aimed to provide a COVID-19 epidemiological situation global
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available in this repo (covid_19_project.ipynb) to show the analysis related to the above questions.  
-There is an additional `utils.py` file that runs the necessary fanctions for the project analysis. Moreover, there are 5 csv files containing the data used in this project. 
+There is one notebook available in this repo (covid_19_project.ipynb) to show the main analysis related to the above questions.  
+There is an additional `utils.py` file that runs the necessary functions for the project analysis. Moreover, there are 5 csv files containing the data used in this project. 
 
 ## Results<a name="results"></a>
 
