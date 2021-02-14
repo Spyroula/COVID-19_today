@@ -9,7 +9,7 @@
 
 ## Requirments <a name="Requirments"></a>
 
-Anaconda distribution of Python is sufficient to run the main python notebook of the project (covid_19_project.ipynb), although the plotly (plotly==4.14.3) 
+Anaconda distribution of Python is sufficient to run the main python notebook of the project (covid_19_project.ipynb), although the plotly library (plotly==4.14.3) 
 might need to be installed. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
