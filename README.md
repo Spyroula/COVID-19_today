@@ -20,7 +20,7 @@ For this project, I aimed to provide a COVID-19 epidemiological situation global
 ## Methodology<a name="methodology"></a>
 This project follows the CRISP-DM process outlined for questions through communication. 
 
-#Business Understanding
+###Business Understanding
 
 I aim to adress the following question regarding our provide a COVID-19 epidemiological situation globally:
 
