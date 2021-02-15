@@ -3,9 +3,10 @@
 
 1. [Requirments](#Requirments)
 2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Methodology](#methodology)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Requirments <a name="Requirments"></a>
 
@@ -14,7 +15,13 @@ might need to be installed. The code should run with no issues using Python vers
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I aimed to provide a COVID-19 epidemiological situation globally according to john Hopkins University data to better understand:
+For this project, I aimed to provide a COVID-19 epidemiological situation globally according to john Hopkins University data to better understand the effects of the virus globally since day one. 
+
+## Methodology<a name="methodology"></a>
+This project follows the CRISP-DM process outlined for questions through communication. 
+#Business Understanding
+
+I aim to adress the following question regarding our provide a COVID-19 epidemiological situation globally:
 
 1. What is the current epidemiological situation globally in terms of confirmed cases and deaths?
 2. What are the COVID-19 mortality rate and the growth factor globally? 
