@@ -100,7 +100,7 @@ def organize_dataframes(dataframe, value_name, column_number):
     Parameters:
     dataframe (DataFrame): The dataframe in which we want to find the negative values 
     value_name (str) : value_name 
-    column_number (int) : Number of the column 
+    column_number (int) : Number of the column  
     
     Returns:
     DataFrame:Returning the dataframe in a long format
