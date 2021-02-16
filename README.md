@@ -36,6 +36,7 @@ For the purpose of this project, we use the latest data from John Hopkins Univer
 
 In Data Understanding section of the covid_19_project notebook, we explored the data.
 For our analysis we focus on the 5 datasets available, mainly: 
+
 1. confirmed patients in global region
 2. deaths in global region
 3. recovered patients in global region
@@ -45,6 +46,19 @@ For our analysis we focus on the 5 datasets available, mainly:
 We obtain the shape, the view and detailed informations of the datasets. 
 
 ### Data Preparation
+
+In order to prepare the data for our main analysis, we performed several preprocess steps. 
+
+1. We deleted the columns that are not in the datasets of both regions, US and global. 
+2. We identified and treated our missing values (e.g NaNs).
+3. We identified and treated our negative values.
+4. We rename several columns so they are in correspondence in all the datasets from both regions. 
+5. We removed corrupted data and problematic values based on the information about the data collection that we have from the GitHub repo.
+6. We reshaped our data into a more computer-friendly form, change the dataframes format from wide to long and make our analysis of data easier.
+7. We grouped by the date and state/country and some up the values of confirmed cases, deaths and recoverved patients. 
+8. We merged the datasets of both regions into one universal dataset, ending up having a dataset with Confirmed cases, Deaths and Recoverded for every country/state per day.
+9. We applied log transformation to some features.
+10. We calculated extra features, namely mortality rate, growth factor and new cases per day. 
 
 ### Modeling
 
