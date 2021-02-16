@@ -14,7 +14,7 @@ might need to be installed. The code should run with no issues using Python vers
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I aim to provide a COVID-19 epidemiological situation globally according to john Hopkins University data to better understand the state of the virus worldwide since day one. 
+For this project, I aim to provide a COVID-19 epidemiological situation globally according to John Hopkins University data to better understand the state of the virus worldwide since day one. 
 
 ## Methodology<a name="methodology"></a>
 This project follows the CRISP-DM process. 
@@ -53,20 +53,20 @@ In order to prepare the data for our main analysis, we performed several preproc
 2. We identified and treated our missing values (e.g NaNs).
 3. We identified and treated our negative values.
 4. We rename several columns so they are in correspondence in all the datasets from both regions. 
-5. We removed corrupted data and problematic values based on the information about the data collection that we have from the GitHub repo.
+5. We removed corrupted data and problematic values based on the information about the data collection that we have from the John Hopkins University GitHub repository.
 6. We reshaped our data into a more computer-friendly form, change the dataframes format from wide to long and make our analysis of data easier.
 7. We grouped by the date and state/country and some up the values of confirmed cases, deaths and recoverved patients. 
-8. We merged the datasets of both regions into one universal dataset, ending up having a dataset with Confirmed cases, Deaths and Recoverded for every country/state per day.
+8. We merged the datasets of both regions into one universal dataset, ending up having a dataset with Confirmed cases, Deaths and Recoverded patients for every country/state per day.
 9. We applied log transformation to some features.
 10. We calculated extra features, namely mortality rate, growth factor and new cases per day. 
 
 ### Modeling
 
-### Results<a name="results"></a>
-
-The answers to the above questions and an analysis and findings of the project can be found at the post available [here](https://spyroula-masiala.medium.com/covid-19-what-does-2021-hold-33e5ae8accb5).
+### Results
 
 ### Deploy
+
+The answers to the above questions and an analysis and findings of the project can be found at the post available [here](https://spyroula-masiala.medium.com/covid-19-what-does-2021-hold-33e5ae8accb5).
 
 ## File Descriptions <a name="files"></a>
 
