@@ -32,6 +32,12 @@ I aim to adress the following question regarding our provide a COVID-19 epidemio
 
 ### Data Understanding
 
+For the purpose of this project, we use the latest data from John Hopkins University GitHub repository: https://github.com/CSSEGISandData/COVID-19. The data of the repository is updated on daily basis and the version we use in this kernel is the: 4/2/2021. 
+
+In Data Understanding section of the covid_19_project notebook, we explored the data.
+For our analysis we focus on the 5 datasets available, which constist of 3 parts: 1) confirmed patients, 2) deaths and 3) recovered patients in the global region and 2 parts: 1) confirmed patients and 2) in US region.
+We obtain the shape, the view and detailed informations of the datasets. 
+
 ### Data Preparation
 
 ### Modeling
