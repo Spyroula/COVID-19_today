@@ -41,6 +41,7 @@ For our analysis we focus on the 5 datasets available, mainly:
 3. recovered patients in global region
 4. confirmed patients in US region
 5. deaths in US region
+
 We obtain the shape, the view and detailed informations of the datasets. 
 
 ### Data Preparation
