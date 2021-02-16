@@ -62,11 +62,27 @@ In order to prepare the data for our main analysis, we performed several preproc
 
 ### Modeling
 
+1. The results of our analysis for the pandemic status was mostly observational, by data visualization.
+2. We observed the universal confirmed cases, deaths and new cases linear growth through a lineplot. 
+3. We observed the mortality and growht factor linear growth through lineplots.
+4. We identifiesd the top countries worldwide in terms of deaths and confirmed cases. 
+5. We observed the linear and logarithmic growth of the top 20 countries in terms of donfirmed cases and deaths. 
+6. We identified the top 20 countries with high and low mortality rate with the help of barplots. 
+7. We observed the severity of COVIS-19 outbreak worldwide through heat maps and the rise of deaths and confirmed cases globally in chronological order with the help of interactive geographical scatter plots. 
+8. We observed the severity of COVID-19 outbreak per state/country in US, Europe and Asia through heat maps. 
+
 ### Results
+
+1. Globally, more than 104M people have been affected from COVID-19 and 2.28K have died from the disease.
+2. COVID-19 is a really universal pandemic, since we can see a variety of countries from all the continents affected by the disease.
+3. The mortality rate is considering underestimated as the number of actual cases might differ significantly from the number of confirmed cases.
+4. The number of cases and deaths can be affected dramatically by the new variants of the virus.
+
+For a further analysis, please check the main notbook, covid_19_project.ipynb. 
 
 ### Deploy
 
-The answers to the above questions and an analysis and findings of the project can be found at the post available [here](https://spyroula-masiala.medium.com/covid-19-what-does-2021-hold-33e5ae8accb5).
+The main findings of our analyis and detailed answers to the above questions can be found at the post available [here](https://spyroula-masiala.medium.com/covid-19-what-does-2021-hold-33e5ae8accb5).
 
 ## File Descriptions <a name="files"></a>
 
